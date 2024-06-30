@@ -1,0 +1,2 @@
+python WeaponDetection.py
+pause
